@@ -1,0 +1,1 @@
+<?php echo "Variável 'a' em incluido.php: {$a}\n"; ?>
